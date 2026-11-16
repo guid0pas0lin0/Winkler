@@ -12,6 +12,10 @@ Nessuna modifica è stata eseguita sul sito.
 
 Il report completo è nel file `index.html`. Include la mappa per prodotto, le ragioni degli esiti e le immagini delle principali incongruenze.
 
-Per consultarlo come pagina leggibile, pubblicare questo contenuto tramite GitHub Pages. In alternativa, scaricare `index.html` e aprirlo nel browser.
+## Apri il report
+
+[Leggi il report completo nel browser](https://guid0pas0lin0.github.io/Winkler/)
+
+Il report è pubblico e consultabile senza un account GitHub. In alternativa, scaricare `index.html` e aprirlo nel browser.
 
 I vecchi PDF vanno conservati finché non sono stati aggiornati i collegamenti e completata la verifica degli altri utilizzi sul sito.
