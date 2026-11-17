@@ -2,8 +2,6 @@
 
 [Apri il report](https://guid0pas0lin0.github.io/Winkler/)
 
-Ogni segnalazione indica prodotto e misura, collegamento alla riga del sito, documenti da confrontare, pagina da leggere e domanda numerata per Roberta.
+Per ogni richiesta: prodotto e misura, link alla riga del sito, PDF nuovi e attuali da aprire, confronto dei dati e domanda precisa per Roberta.
 
-I casi già chiariti sono separati dalle richieste. I PDF attualmente sul sito sono collegati; i documenti nuovi sono identificati con il nome esatto nello ZIP ricevuto.
-
-Il sito Winkler è rimasto invariato e nessun vecchio PDF è stato eliminato.
+I casi risolti sono separati dalle domande. Il sito Winkler non è stato modificato. I PDF nella cartella `pdf/nuovi` sono copie inalterate dei documenti citati nel report.
